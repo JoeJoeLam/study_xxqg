@@ -9,7 +9,7 @@
 
 ### 一键安装脚本
 ```shell
-wget  https://raw.githubusercontent.com/johIanse/study_xxqg/main/docs/study_xxqg_install.py && python3 study_xxqg_install.py
+停用wget  https://raw.githubusercontent.com/johIanse/study_xxqg/main/docs/study_xxqg_install.py && python3 study_xxqg_install.py
 ```
 
 ## docker运行

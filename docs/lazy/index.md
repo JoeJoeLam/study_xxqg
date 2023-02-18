@@ -7,9 +7,8 @@
 - 安卓手机
 - ZeroTermux
 - 恢复包
-  > 下载地址1：https://caiyun.139.com/m/i?125CmrpZN6L0L 提取码:ESwH
-  
-  > 下载地址2: https://cloud.189.cn/t/eqmMBzjMvENn 提取码:0eg9
+  > 下载地址1：https://www.123pan.com/s/WjX0Vv-T6nSv
+
   
   > <img src="https://dph666-1252290660.cos.ap-chengdu.myqcloud.com/c5sl29.png" style="float:left;" />
 

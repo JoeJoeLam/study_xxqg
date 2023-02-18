@@ -15,7 +15,7 @@
 ## docker运行
 
 ```
-docker run --name study_xxqg --restart always -d -p 8080:8080 -v /etc/study_xxqg/:/opt/config/  joianse/study_xxqg:latest
+docker run --name study_xxqg --restart always -d -p 8080:8080 -v /etc/study_xxqg/:/opt/config/  johianse/study_xxqg:latest
 ```
 各个参数的含义：
 + **--restart always 容器总是自动重启

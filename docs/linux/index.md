@@ -9,13 +9,13 @@
 
 ### 一键安装脚本
 ```shell
-停用wget  https://raw.githubusercontent.com/johIanse/study_xxqg/main/docs/study_xxqg_install.py && python3 study_xxqg_install.py
+停用wget  https://raw.githubusercontent.com/johianse/study_xxqg/main/docs/study_xxqg_install.py && python3 study_xxqg_install.py
 ```
 
 ## docker运行
 
 ```
-docker run --name study_xxqg --restart always -d -p 8080:8080 -v /etc/study_xxqg/:/opt/config/  joIanse/study_xxqg:latest
+docker run --name study_xxqg --restart always -d -p 8080:8080 -v /etc/study_xxqg/:/opt/config/  joianse/study_xxqg:latest
 ```
 各个参数的含义：
 + **--restart always 容器总是自动重启
@@ -27,7 +27,7 @@ docker run --name study_xxqg --restart always -d -p 8080:8080 -v /etc/study_xxqg
 ## docker-compose运行
 
 ```shell
-wget https://raw.githubusercontent.com/johIanse/study_xxqg/main/docker-compose.yml
+wget https://raw.githubusercontent.com/johianse/study_xxqg/main/docker-compose.yml
 docker-compose up -d
 ```
 
